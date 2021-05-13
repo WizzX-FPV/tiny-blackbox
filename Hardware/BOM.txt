@@ -9,4 +9,4 @@ B1           B3U-3000P        1.2 × 3 × 2.5 mm
 X1           NX3225GD-8MHz    2-lead, 3.2 × 2.5 mm
 U1           LP2985-33DBVR    SOT-23-5
 U2           STM32F042G6U6    UFQFPN28, 4 × 4 mm
-U3           W25Q128JVPIQ     WSON-8, 5 × 6 mm
+U3           W25Q256JVEIQ     WSON-8_L8.0-W6.0-H0.8-P1.27
