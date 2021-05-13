@@ -1,6 +1,7 @@
 # Tiny Blackbox
 
-This is just try to use of W25Q256JVEIQ (32MB) Flash memmory 
+This is just try to use of W25Q256JVEIQ (32MB) Flash memmory.
+
 As I never use EasyEDA before, I can not guaranty that is done OK
 
 ![Photo](Images/W25Q256JVEIQ.png)
