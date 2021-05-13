@@ -6,7 +6,7 @@ As I never use EasyEDA before, I can not guaranty that is done OK
 
 credit go to Alexey:
 
-![Photo](Images/W25Q256JVEIQ.png)
+![Photo](Images/Tiny Blackbox 32MB.png)
 
 Tiny Blackbox is an open source ultra-light external logger for micro drones.
 
