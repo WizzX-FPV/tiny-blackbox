@@ -1,10 +1,11 @@
 # Tiny Blackbox
-![Photo](Images/W25Q256JVEIQ.png)
 
 This is just try to use of W25Q256JVEIQ (32MB) Flash memmory 
 As I never use EasyEDA before, I can not guaranty that is done OK
 
-original description by Alexey:
+![Photo](Images/W25Q256JVEIQ.png)
+
+credit go to Alexey:
 
 Tiny Blackbox is an open source ultra-light external logger for micro drones.
 
@@ -13,7 +14,7 @@ Tiny Blackbox is an open source ultra-light external logger for micro drones.
 * Logging rate: up to 4 kHz 
 * Data rate: 1.5 Mbit/s
 * Current consumption: < 30 mA
-* Flash memory: 16 MB, W25Q128JVPIQ (32 MB, W25Q256JVEIQ)
+* Flash memory: 32 MB, W25Q256JVEIQ
 * MCU: STM32F042G6U6
 
 ![Whoop](Images/whoop.jpg)
