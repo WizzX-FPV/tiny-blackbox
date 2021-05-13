@@ -1,4 +1,4 @@
-# Tiny Blackbox
+# Tiny Blackbox 32MB
 
 This is just try to use of W25Q256JVEIQ (32MB) Flash memmory.
 
