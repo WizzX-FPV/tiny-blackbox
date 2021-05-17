@@ -4,9 +4,9 @@ This is just try to use of W25Q256JVEIQ (32MB) Flash memmory.
 
 As I never use EasyEDA before, I can not guaranty that is done OK
 
-credit go to Alexey:
-
 ![Photo](Images/TinyBlackbox32MB.png)
+
+credit go to Alexey:
 
 Tiny Blackbox is an open source ultra-light external logger for micro drones.
 
